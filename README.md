@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Bootstrap Theme - Small Business
 
-You can use the [editor on GitHub](https://github.com/bangoos/bangoos.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![Click Preview](https://position2.github.io/free-bootstrap-theme-sb/images/leaf-thumbnail.jpg)](https://position2.github.io/free-bootstrap-theme-sb/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**[Live Demo](https://position2.github.io/free-bootstrap-theme-sb/)**
 
-### Markdown
+# Theme Details & Demo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Click is a free Bootstrap landing page theme designed for developers & startups. You can use the template as it is or integrate the front-end design as per your requirement. The source files are included so you can customise the design with ease.
 
-```markdown
-Syntax highlighted code block
+We will update and improve the template based on user feedback so get in touch or leave a comment if you have any questions or suggestions. If you like the template and find it useful, we'd appreciate your help in spreading the word on your networks. You can also follow us on Twitter to be the first to know when we release new templates and other freebies
 
-# Header 1
-## Header 2
-### Header 3
+# Author & License
 
-- Bulleted
-- List
+This Bootstrap template is made by [Position2](https://www.position2.com/) UI designer for developers and is 100% FREE under the Creative Commons Attribution 3.0 License (CC BY 3.0)
 
-1. Numbered
-2. List
+# Features
 
-**Bold** and _Italic_ and `Code` text
+    Fully Responsive
+    HTML5 + CSS3
+    Built on Bootstrap v4.1.0
+    600+ FontAwesome icons
+    Compatible with all modern browsers
 
-[Link](url) and ![Image](src)
-```
+# Basic Usage
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Download the package then edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-### Jekyll Themes
+# Credits
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bangoos/bangoos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Bootstrap](http://getbootstrap.com/)
 
-### Support or Contact
+[jQuery](http://jquery.com/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Google Fonts](https://www.google.com/fonts/)
+
+[Font Awesome](https://fontawesome.com/)
+
+[Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
+
+[Magnific Popup](https://github.com/dimsemenov/Magnific-Popup)
+
+[Unsplash](https://unsplash.com/)
+
+
+
+# Copyright and License
+
+Copyright 2018-2019 [Position2 Inc](https://www.position2.com/). Code released under the [MIT](https://github.com/Position2/free-bootstrap-theme-sb/blob/master/LICENSE) license.
